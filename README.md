@@ -3,7 +3,7 @@
 
 An exporter for randomly generated seeds for powerball numbers
 
-```
+``` diff
                                                        /$$                 /$$ /$$
                                                       | $$                | $$| $$
   /$$$$$$   /$$$$$$  /$$  /$$  /$$  /$$$$$$   /$$$$$$ | $$$$$$$   /$$$$$$ | $$| $$
