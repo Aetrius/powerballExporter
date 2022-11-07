@@ -1,0 +1,8 @@
+version: "2.0"
+services:
+  powerball-exporter:
+    image: powerball-exporter
+    build: .
+    container_name: powerball-exporter
+    ports:
+      - "9101:9101"
